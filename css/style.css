@@ -1,10 +1,55 @@
 body {
-    background: salmon;
+    background: rgb(236, 196, 191);
+    font-size: larger;
+    border: 2px solid rgb(205, 50, 50)
+    color: rgb(54, 42, 165);
+    font-family: verdana
 }
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 40px;
+    border: 5px solid #f51212;
+}
+
+h3 {
+    background-color: rgb(70, 186, 180);
+}
+
+.my-class {
+    color: blueviolet;
+}
+.my-class2 {
+    color: #f51212;
+}
+
+article {
+    background-color: rgb(70, 186, 180);
+    color: blue
+
+}
+    
 
 img {
     border-radius: 50%; 
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+li {
+    font-family: Calibri, sans-
+    serif;
+    margin-bottom: 5px;
+
+}
+
+a[target="_blank"] {
+    border: 5px dotted green; 
+}
+
+footer {
+    background-color: rgb(211, 216, 53);
 }
